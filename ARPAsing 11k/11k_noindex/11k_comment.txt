@@ -63,7 +63,7 @@ ow_v_er_jh_uw_ih_sh_p_r_uw_v_w_er_k_s	over Jewish prove works
 s_eh_t_ih_ng_w_ay_y_uw_n_ow_t_d_r_ay_v	setting why you note drive
 sh_uw_w_ao_k_ih_n_k_r_iy_s_t_w_iy_dh_ow_z	shoe walk increased we those
 t_uw_ae_ng_g_r_iy_k_ae_p_ih_t_ah_l_	too angry capital
-hh_ay_er_tooth_iy_z_iy_ae_d	hire tooth easy ad
+hh_ay_er_t_uw_th_iy_z_iy_ae_d	hire tooth easy ad
 s_ah_m_t_ay_m_z_g_uh_d_k_w_ih_k_v_oy_s_l_ao_s	sometimes good quick voice loss
 s_t_iy_l_aa_r_g_y_uw_r_ay_z_r_ih_s_k_hh_y_uw_jh	steal argue rise risk huge
 dh_eh_r_ao_l_r_eh_d_iy_eh_m_p_l_oy	their already employ
@@ -86,7 +86,7 @@ m_ae_ch_d_ih_s_k_r_ay_b_ih_n_t_eh_n_d_sh_aa_p	match describe intend shop
 p_er_hh_ae_p_s_n_ow_z_g_aa_r_d_ah_n_m_aw_th	perhaps nose garden mouth
 dh_ah_s_b_r_ay_t_f_ih_l_f_l_ao_r_dh_ey_w_er_th	thus bright fill floor they worth
 d_uw_eh_r_ah_ah_g_r_iy_w_aa_ch	do era agree watch
-w_iy_k_eh_n_d_k_ah_m_y_uw_n_ah_t_i	weekend community
+w_iy_k_eh_n_d_k_ah_m_y_uw_n_ah_t_iy	weekend community
 f_r_uw_t_ay_ae_d_v_ae_n_t_ih_jh_s_p_ao_r_t	fruit I advantage sport
 hh_aa_r_t_k_ae_r_iy_sh_ey_k_y_uw_f_ih_t	heart carry shake you fit
 l_ao_n_ch_t_w_ay_s_r_ih_l_ay_hh_ae_p_ah_n	launch twice rely happen
@@ -94,8 +94,8 @@ eh_l_s_ae_d_r_eh_s_d_eh_t_y_ao_r_r_uw_t	else address debt your root
 ah_l_aw_l_ih_s_t_s_l_ow_w_ey_s_t_jh_oy_n	allow list slow waste join
 er_b_ah_n_p_er_f_ao_r_m_hh_uw_z_y_ih_r	urban perform whose year
 oy_l_ao_l_dh_ow_ih_k_s_ch_ey_n_jh_b_l_uw	oil although exchange blue
-ay_d_iy_ah_d_r_ay_r_iy_jh_ah_n_uh_r	idea dry region
-ih_g_n_ao_r_z_ow_n_k_ah_l_eh_k_t_t	ignore zone collect tour
+ay_d_iy_ah_d_r_ay_r_iy_jh_ah_n	idea dry region
+ih_g_n_ao_r_z_ow_n_k_ah_l_eh_k_t_t_uh_r	ignore zone collect tour
 w_eh_l_hh_ih_t_r_eh_l_ah_t_ih_v_l_iy	well hit relatively
 p_r_aa_b_l_ah_m_f_ih_l_b_aa_t_ah_m_n_ow_z	problem fill bottom nose
 k_ah_m_ih_t_iy_ow_p_ah_n_r_uw_m	committee open room
@@ -179,7 +179,7 @@ hh_aw_k_ah_p_ae_s_ah_t_iy_b_aa_k_s	how capacity box
 l_ao_y_er_d_uw_hh_ih_m_w_ih_dh_d_r_ah_g	lawyer do him with drug
 f_ih_ng_g_er_ae_p_l_ah_k_ey_sh_ah_n	finger application
 p_l_ey_n_b_r_ah_dh_er_d_ay_sh_ow_l_d_er	plane brother die shoulder
-t_ih_p_w_er_k_iy_r_b_ah_s_m_er_d_e	tip work ear bus murder
+t_ih_p_w_er_k_iy_r_b_ah_s_m_er_d_er	tip work ear bus murder
 w_ao_r_m_m_ah_n_th_l_iy_f_w_er_d_th_ih_r_iy	warm month leaf word theory
 s_ih_m_ah_l_er_k_uh_d_ah_y_ah_ng	similar could a young
 r_ih_m_eh_m_b_er_b_ay_t_iy_ch_eh_jh	remember by teach edge
@@ -240,7 +240,7 @@ ah_t_ae_k_ih_m_p_r_uw_v_r_ay_t_er	attack improve writer
 ay_l_ah_n_d_t_ah_w_ao_r_d_k_ae_n_s_er	island toward cancer
 ih_n_k_l_uw_d_ae_z_n_ey_b_er_w_er_l_d	include as neighbor world
 ih_t_s_p_iy_ch_ah_p_er_p_ey_n_l_ay_k	it speech upper pain like 
-ih_k_s_t_eh_n_d_t_iy_ch_k_ah_l_er_w_ih_n	extend teach clolr win
+ih_k_s_t_eh_n_d_t_iy_ch_k_ah_l_er_w_ih_n	extend teach color win
 eh_v_r_iy_w_eh_r_k_ih_d_w_iy_eh_n_d	everywhere kid we end 
 iy_s_t_p_uw_l_s_ey_d_ih_g_r_iy_r_uw_m	east pool say degree room
 g_aa_l_f_k_aa_n_t_eh_n_t_d_aw_n_th_r_uw_g_ow_l_d	golf content down through gold
